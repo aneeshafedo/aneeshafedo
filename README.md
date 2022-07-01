@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 ![Statistics](https://github-readme-stats.vercel.app/api?username=aneeshafedo&show_icons=true&theme=github)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=aneeshafedo&theme=github) 
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aneeshafedo&&count_private=true&include_all_commits=true&show_icons=true&theme=github)
